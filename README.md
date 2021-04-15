@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my homepage!
 
-You can use the [editor on GitHub](https://github.com/Hc-Yuan/Hc-Yuan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here is another homepage [click here](fjallraven-hc.github.io) held by me for test. It is based on hexo and mainly composed of some blogs in diverse topics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Bio
+I graduated from Tieyi middle school in Xi'an Shannxi Province.   
+I am expected to receive a bachelor degree in computer science from Peking University in July, 2017.   
+Honestly, i am in the gap year now, seeking for a satisfying program and school for graduate study.   
+My personal research interests lay in `Natural Language Processing`, `Computer Vision` and `Advanced Algorithms`.
+
+Whenever i commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -30,8 +36,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hc-Yuan/Hc-Yuan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+My Pages site will use the layout and styles from the Jekyll theme i have selected in my [repository settings](https://github.com/Hc-Yuan/Hc-Yuan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out the official [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and they’ll help you sort it out.
