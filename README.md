@@ -1,6 +1,6 @@
 ## Welcome to my homepage!
 
-Here is another homepage [click here](fjallraven-hc.github.io) held by me for test. It is based on hexo and mainly composed of some blogs in diverse topics.
+Here is another homepage [click here](https://fjallraven-hc.github.io/) held by me for test. It is based on hexo and mainly composed of some blogs in diverse topics.
 
 ### Bio
 I graduated from Tieyi middle school in Xi'an Shannxi Province.   
